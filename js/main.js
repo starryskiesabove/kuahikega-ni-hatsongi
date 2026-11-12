@@ -27,7 +27,7 @@ window.onload = function () {
     makeNewKey(tabs, "big", changeFontSize, 1);
     makeNewKey(tabs, "Enter", makeNewLine);
     makeNewKey(tabs, "Delete", deleteSelectedCharacter);
-    makeNewKey(tabs, "Clear", deleteLines);
+    // makeNewKey(tabs, "Clear", deleteLines);
     makeNewKey(tabs, "Direct.", changeDirection);
     makeNewKey(tabs, "Base", changeToBase);
     makeNewKey(tabs, "Voice.", changeToVoiced);
