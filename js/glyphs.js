@@ -12,7 +12,7 @@ const glyphCategories = {
         glyphs: [
             {label: "i",
                 image: "images/1) i.png",},
-            {label: "ii",
+            {label: "ī",
                 image: "images/2) ii.png",},
             {label: "mi",
                 image: "images/11) mi.png",},
@@ -55,7 +55,7 @@ const glyphCategories = {
         glyphs: [
             {label: "e",
                 image: "images/3) e.png",},
-            {label: "ee",
+            {label: "ē",
                 image: "images/4) ee.png",},
             {label: "me",
                 image: "images/12) me.png",
@@ -109,7 +109,7 @@ const glyphCategories = {
         glyphs: [
             {label: "a",
                 image: "images/5) a.png",},
-            {label: "aa",
+            {label: "ā",
                 image: "images/6) aa.png",},
             {label: "ma",
                 image: "images/13) ma.png",
@@ -167,7 +167,7 @@ const glyphCategories = {
         glyphs: [
             {label: "u",
                 image: "images/7) u.png",},
-            {label: "uu",
+            {label: "ū",
                 image: "images/8) uu.png",},
             {label: "mu",
                 image: "images/14) mu.png",
@@ -222,7 +222,7 @@ const glyphCategories = {
         glyphs: [
             {label: "o",
                 image: "images/9) o.png",},
-            {label: "oo",
+            {label: "ō",
                 image: "images/10) oo.png",},
             {label: "mo",
                 image: "images/15) mo.png",
