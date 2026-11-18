@@ -327,7 +327,7 @@ const glyphCategories = {
                 image: "images/p13) Close Parenthesis, Horizontal.png",
                 vertical: "images/p15) Close Parenthesis, Vertical.png",
             },
-            {label: "&.",
+            {label: "&",
                 image: "images/p16) si, AND.png",
             },
             // {label: "Voice.",
