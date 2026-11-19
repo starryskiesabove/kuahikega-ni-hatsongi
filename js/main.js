@@ -139,10 +139,10 @@ function makeNewKey(location, label, func, parameters) {
         newKey.classList.add("open")
     };
 
-    // if (condition) {
-        
-    // }
-
+    // let div = document.createElement("img");
+    // div.src = "keylabels/0a) m coda, Horizontal.png"
+    // div.style.height = "20px"
+    // newKey.appendChild(div)
     newKey.appendChild(document.createTextNode(label));
     location.appendChild(newKey);
 }

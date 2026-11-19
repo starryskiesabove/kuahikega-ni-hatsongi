@@ -36,28 +36,13 @@
   border: 10px;
 }
 
-/* .horizontal {
-  height: 100%;
-} */
-
-/* .vertical {
-  height: auto;
-} */
-
 .key {
+  /* display: flex; */
+  /* flex-direction: column; */
   width: 50px;
   height: 40px;
-  /* margin: 8px; */
 }
 
 .open {
   border: solid;
 }
-
-/* .logo {
-  height: 85px
-}
-
-.vlogov {
-  height: 57px
-} */
